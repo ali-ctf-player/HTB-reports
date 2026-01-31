@@ -64,7 +64,7 @@ My general workflow for approaching a new target.
 
 <div align="center">
 
-**[ ⭐ Star this Repo ](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)** if you found these write-ups helpful!
+**[ ⭐ Star this Repo ](https://github.com/ali-ctf-player/HTB-reports)** if you found these write-ups helpful!
   
 <sub><i>"The only true wisdom is in knowing you know nothing."</i> — Socrates</sub>
 
