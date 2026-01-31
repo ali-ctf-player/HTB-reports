@@ -1,32 +1,71 @@
-# 🚩 Hack The Box Write-ups
+## 🏆 Recent Pwns
 
-![Banner](https://img.shields.io/badge/Hack%20The%20Box-Writeups-9fef00?style=for-the-badge&logo=hack-the-box&logoColor=black)
+A log of the machines I have recently compromised.
 
-[![HTB Profile](https://img.shields.io/badge/HTB-Profile-202225?style=flat&logo=hack-the-box&logoColor=9fef00)](https://app.hackthebox.com/users/3022666)
-[![Twitter](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+| Machine | OS | Difficulty | Tags | Write-up |
+| :--- | :---: | :---: | :---: | :---: |
+| **Example Box** | 🐧 | ![](https://img.shields.io/badge/-Easy-2ea44f) | `Web` `CVE-2023-XXXX` | [Read ➜](./Machines/Easy/Example/README.md) |
+| **Another Box** | 🪟 | ![](https://img.shields.io/badge/-Medium-dbab09) | `Active Directory` `Kerberoasting` | [Read ➜](./Machines/Medium/Another/README.md) |
+| **Hard Box** | 🐧 | ![](https://img.shields.io/badge/-Hard-bd2c00) | `Buffer Overflow` `Custom Exploit` | [Read ➜](./Machines/Hard/HardBox/README.md) |
 
-## 📖 Introduction
+<br>
 
-Welcome to my repository of write-ups for [Hack The Box](https://www.hackthebox.com/) machines and challenges. 
+## ⚔️ My Arsenal
 
-I created this repository to document my learning journey, refine my methodology, and share knowledge with the InfoSec community. Each write-up details the reconnaissance, scanning, enumeration, and exploitation steps I took to capture the flags.
+The tools and frameworks I frequently utilize during engagements.
 
-> **Note:** These write-ups are for educational purposes only.
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
 
-## 📂 Repository Structure
+## 🧠 Methodology
 
-The repository is organized by category and difficulty:
+My general workflow for approaching a new target.
 
-```text
-├── Machines
-│   ├── Easy
-│   ├── Medium
-│   ├── Hard
-│   └── Insane
-├── Challenges
-│   ├── Crypto
-│   ├── Pwn
-│   ├── Web
-│   └── Forensics
-└── Resources / Scripts
+<details>
+<summary><strong>1. Reconnaissance & Enumeration</strong> (Click to Expand)</summary>
+
+* **Port Scanning:** Identifying open ports and running services (Nmap, Masscan).
+* **Web Enumeration:** Directory brute-forcing, sub-domain enumeration, and checking for known CMS vulnerabilities (Gobuster, Nikto, Wappalyzer).
+* **SMB/RPC:** Checking for null sessions, listing shares, and enumerating users.
+
+</details>
+
+<details>
+<summary><strong>2. Initial Access (Foothold)</strong> (Click to Expand)</summary>
+
+* **Exploitation:** leveraging CVEs, misconfigurations, or weak credentials.
+* **Reverse Shells:** Establishing a stable connection back to my attack box.
+
+</details>
+
+<details>
+<summary><strong>3. Privilege Escalation</strong> (Click to Expand)</summary>
+
+* **Enumeration:** Running scripts like `LinPEAS` or `WinPEAS`.
+* **Kernel Exploits:** Checking for outdated kernel versions.
+* **Misconfigurations:** Checking SUID binaries, cron jobs, or weak file permissions.
+
+</details>
+
+<br>
+
+## 📈 Stats & Progress
+
+![HTB Stats](http://www.hackthebox.com/badge/image/3022666)
+
+---
+
+<div align="center">
+
+**[ ⭐ Star this Repo ](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)** if you found these write-ups helpful!
+  
+<sub><i>"The only true wisdom is in knowing you know nothing."</i> — Socrates</sub>
+
+</div>
