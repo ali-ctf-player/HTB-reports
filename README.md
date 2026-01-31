@@ -2,7 +2,7 @@
 
 ![Banner](https://img.shields.io/badge/Hack%20The%20Box-Writeups-9fef00?style=for-the-badge&logo=hack-the-box&logoColor=black)
 
-[![HTB Profile](https://img.shields.io/badge/HTB-Profile-202225?style=flat&logo=hack-the-box&logoColor=9fef00)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+[![HTB Profile](https://img.shields.io/badge/HTB-Profile-202225?style=flat&logo=hack-the-box&logoColor=9fef00)](https://app.hackthebox.com/users/3022666)
 [![Twitter](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
