@@ -24,7 +24,7 @@ The repository is organized by category and difficulty:
 │   ├── Medium
 │   ├── Hard
 │   └── Insane
-
+```
 
 ## 🏆 Recent Pwns
 
@@ -42,14 +42,22 @@ A log of the machines I have recently compromised.
 
 The tools and frameworks I frequently utilize during engagements.
 
+## ⚔️ My Arsenal
+
+The tools and frameworks I frequently utilize during engagements.
+
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/RustScan-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ffuf-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 ## 🧠 Methodology
