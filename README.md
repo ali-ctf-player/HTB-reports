@@ -42,10 +42,6 @@ A log of the machines I have recently compromised.
 
 The tools and frameworks I frequently utilize during engagements.
 
-## ⚔️ My Arsenal
-
-The tools and frameworks I frequently utilize during engagements.
-
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/RustScan-000000?style=for-the-badge&logo=rust&logoColor=white" />
