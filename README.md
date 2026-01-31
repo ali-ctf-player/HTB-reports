@@ -32,7 +32,7 @@ A log of the machines I have recently compromised.
 
 | Machine | OS | Difficulty | Tags | Write-up |
 | :--- | :---: | :---: | :---: | :---: |
-| **Pending** | 🐧 | ![](https://img.shields.io/badge/-Easy-2ea44f) | `Web` `CVE-2023-XXXX` | [Read ➜](./Machines/Easy/README.md) |
+| **Armageddon** | 🐧 | ![](https://img.shields.io/badge/-Easy-2ea44f) | `Drupalgeddon2` `Snapd` `Dirty Sock` | [Read ➜](./Machines/Easy/README.md) |
 | **Pending** | 🪟 | ![](https://img.shields.io/badge/-Medium-dbab09) | `Active Directory` `Kerberoasting` | [Read ➜](./Machines/Medium/README.md) |
 | **Pending** | 🐧 | ![](https://img.shields.io/badge/-Hard-bd2c00) | `Buffer Overflow` `Custom Exploit` | [Read ➜](./Machines/Hard/README.md) |
 
