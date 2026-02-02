@@ -1,7 +1,7 @@
 # 🟢 Easy Machines
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-2ea44f?style=for-the-badge&logo=hack-the-box&logoColor=white)
-![Count](https://img.shields.io/badge/Total%20Pwned-1-blue?style=for-the-badge)
+![Count](https://img.shields.io/badge/Total%20Pwned-4-blue?style=for-the-badge)
 
 ## ℹ️ Overview
 
