@@ -18,6 +18,7 @@
 | **Armageddon** | 🐧 | `Drupalgeddon2` `Snapd` `Dirty Sock` | [📄 View PDF](./Armageddon-HTB.pdf) |
 | **Facts** | 🐧 | `LFI` `Camaleon` `Facter` | [📄 View PDF](./Facts-HTB.pdf) |
 | **TwoMillions** | 🐧 | `JavaScript` `RCE` `OverlayFS` | [📄 View PDF](./TwoMillions-HTB.pdf) |
+| **CodePartTwo** | 🐧 | `js2py` `npbackup-cli` | [📄 View PDF](./CodePartTwo-HTB.pdf) |
 
 ## 💡 General Tips for Easy Boxes
 
