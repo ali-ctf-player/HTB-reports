@@ -16,6 +16,8 @@
 | Machine Name | OS | Key Techniques | Link |
 | :--- | :---: | :--- | :---: |
 | **Armageddon** | 🐧 | `Drupalgeddon2` `Snapd` `Dirty Sock` | [📄 View PDF](./Armageddon-HTB.pdf) |
+| **Facts** | 🐧 | `LFI` `Camaleon` `Facter` | [📄 View PDF](./Facts-HTB.pdf) |
+| **TwoMillions** | 🐧 | `JavaScript` `RCE` `OverlayFS` | [📄 View PDF](./TwoMillions-HTB.pdf) |
 
 ## 💡 General Tips for Easy Boxes
 
