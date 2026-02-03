@@ -1,7 +1,7 @@
 # 🟢 Easy Machines
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-2ea44f?style=for-the-badge&logo=hack-the-box&logoColor=white)
-![Count](https://img.shields.io/badge/Total%20Pwned-4-blue?style=for-the-badge)
+![Count](https://img.shields.io/badge/Total%20Pwned-5-red?style=for-the-badge)
 
 ## ℹ️ Overview
 
@@ -19,6 +19,7 @@
 | **Facts** | 🐧 | `LFI` `Camaleon` `Facter` | [📄 View PDF](./Facts-HTB.pdf) |
 | **TwoMillions** | 🐧 | `JavaScript` `RCE` `OverlayFS` | [📄 View PDF](./TwoMillions-HTB.pdf) |
 | **CodePartTwo** | 🐧 | `js2py` `npbackup-cli` | [📄 View PDF](./CodePartTwo-HTB.pdf) |
+| **Soulmate** | 🐧 | `Erlang` `crushftp` | [📄 View PDF](./Soulmate-HTB.pdf) |
 
 ## 💡 General Tips for Easy Boxes
 
