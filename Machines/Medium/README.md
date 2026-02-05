@@ -1,7 +1,7 @@
 # 🟠 Medium Machines
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange?style=for-the-badge&logo=hack-the-box&logoColor=white)
-![Count](https://img.shields.io/badge/Total%20Pwned-1-blue?style=for-the-badge)
+![Count](https://img.shields.io/badge/Total%20Pwned-2-purple?style=for-the-badge)
 
 ## ℹ️ Overview
 
@@ -16,7 +16,7 @@
 | Machine Name | OS | Key Techniques | Link |
 | :--- | :---: | :--- | :---: |
 | **Dogcat** | 🐧 | `LFI` `Docker` | [📄 View PDF](./Dogcat-THM.pdf) |
-| **Pending** | 🪟 | `Kerberoasting` `BloodHound` | [📄 View PDF](./WindowsTarget-HTB.pdf) |
+| **Imagery** | 🪟 | `LFI` `pyAesCrypt` `Charcol` | [📄 View PDF](./Imagery-HTB.pdf) |
 | **Pending** | 🐧 | `SQL Injection` `Buffer Overflow` | [📄 View PDF](./WebSvr-HTB.pdf) |
 
 ## 💡 General Tips for Medium Boxes
