@@ -16,7 +16,7 @@
 | Machine Name | OS | Key Techniques | Link |
 | :--- | :---: | :--- | :---: |
 | **Dogcat** | 🐧 | `LFI` `Docker` | [📄 View PDF](./Dogcat-THM.pdf) |
-| **Imagery** | 🪟 | `LFI` `pyAesCrypt` `Charcol` | [📄 View PDF](./Imagery-HTB.pdf) |
+| **Imagery** | 🐧 | `LFI` `pyAesCrypt` `Charcol` | [📄 View PDF](./Imagery-HTB.pdf) |
 | **Pending** | 🐧 | `SQL Injection` `Buffer Overflow` | [📄 View PDF](./WebSvr-HTB.pdf) |
 
 ## 💡 General Tips for Medium Boxes
