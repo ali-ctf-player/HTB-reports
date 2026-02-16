@@ -1,7 +1,7 @@
 # 🟢 Easy Machines
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-2ea44f?style=for-the-badge&logo=hack-the-box&logoColor=white)
-![Count](https://img.shields.io/badge/Total%20Pwned-6-red?style=for-the-badge)
+![Count](https://img.shields.io/badge/Total%20Pwned-8-yellow?style=for-the-badge)
 
 ## ℹ️ Overview
 
@@ -21,6 +21,7 @@
 | **CodePartTwo** | 🐧 | `js2py` `npbackup-cli` | [📄 View PDF](./CodePartTwo-HTB.pdf) |
 | **Soulmate** | 🐧 | `Erlang` `crushftp` | [📄 View PDF](./Soulmate-HTB.pdf) |
 | **Conversor** | 🐧 | `XSLT` `RCE` `Importlib` | [📄 View PDF](./Conversor-HTB.pdf) |
+| **Wingdata** | 🐧 | `XSLT` `RCE` `Importlib` | [📄 View PDF](./Conversor-HTB.pdf) |
 
 ## 💡 General Tips for Easy Boxes
 
