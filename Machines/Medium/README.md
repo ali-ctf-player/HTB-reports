@@ -1,7 +1,7 @@
 # 🟠 Medium Machines
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange?style=for-the-badge&logo=hack-the-box&logoColor=white)
-![Count](https://img.shields.io/badge/Total%20Pwned-3-purple?style=for-the-badge)
+![Count](https://img.shields.io/badge/Total%20Pwned-5-blue?style=for-the-badge)
 
 ## ℹ️ Overview
 
@@ -18,6 +18,9 @@
 | **Dogcat** | 🐧 | `LFI` `Docker` | [📄 View PDF](./Dogcat-THM.pdf) |
 | **Imagery** | 🐧 | `LFI` `pyAesCrypt` `Charcol` | [📄 View PDF](./Imagery-HTB.pdf) |
 | **Pterodactyl** | 🐧 | `Race Conditions` `PAM` `PHP-PEAR` | [📄 View PDF](./Pterodactyl-HTB.pdf) |
+| **Gavel** | 🐧 | `SQL` `YAML` `PHP RCE` | [📄 View PDF](./Gavel-HTB.pdf) |
+| **Browsed** | 🐧 | `Extension` `Javascript RCE` `Python Privesc` | [📄 View PDF](./Browsed-HTB.pdf) |
+
 
 ## 💡 General Tips for Medium Boxes
 
