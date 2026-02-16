@@ -21,8 +21,8 @@
 | **CodePartTwo** | 🐧 | `js2py` `npbackup-cli` | [📄 View PDF](./CodePartTwo-HTB.pdf) |
 | **Soulmate** | 🐧 | `Erlang` `crushftp` | [📄 View PDF](./Soulmate-HTB.pdf) |
 | **Conversor** | 🐧 | `XSLT` `RCE` `Importlib` | [📄 View PDF](./Conversor-HTB.pdf) |
-| **Wingdata** | 🐧 | `Path Traversal` `RCE` `tarfile` | [📄 View PDF](./WingData-HTB.pdf) |
-| **Eighteen** | 🐧 | `MSSQL` `OU` `Successor` | [📄 View PDF](./Eighteen-HTB.pdf) |
+| **Wingdata** | 🪟 | `Path Traversal` `RCE` `tarfile` | [📄 View PDF](./WingData-HTB.pdf) |
+| **Eighteen** | 🪟 | `MSSQL` `OU` `Successor` | [📄 View PDF](./Eighteen-HTB.pdf) |
 
 
 ## 💡 General Tips for Easy Boxes
