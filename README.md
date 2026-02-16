@@ -34,7 +34,7 @@ A log of the machines I have recently compromised.
 | :--- | :---: | :---: | :---: | :---: |
 | **Armageddon** | 🐧 | ![](https://img.shields.io/badge/-Easy-2ea44f) | `Drupalgeddon2` `Snapd` `Dirty Sock` | [Read ➜](./Machines/Easy/README.md) |
 | **Pterodactyl** | 🪟 | ![](https://img.shields.io/badge/-Medium-dbab09) | `Race Conditions` `Motherland` `LFI to RCE` | [Read ➜](./Machines/Medium/README.md) |
-| **WingData** | 🐧 | ![](https://img.shields.io/badge/-Hard-bd2c00) | `RCE` `Tarfile Path Traversal` | [Read ➜](./Machines/Hard/README.md) |
+| **WingData** | 🐧 | ![](https://img.shields.io/badge/-Easy-bd2c00) | `RCE` `Tarfile Path Traversal` | [Read ➜](./Machines/Hard/README.md) |
 
 <br>
 
