@@ -33,8 +33,8 @@ A log of the machines I have recently compromised.
 | Machine | OS | Difficulty | Tags | Write-up |
 | :--- | :---: | :---: | :---: | :---: |
 | **Armageddon** | 🐧 | ![](https://img.shields.io/badge/-Easy-2ea44f) | `Drupalgeddon2` `Snapd` `Dirty Sock` | [Read ➜](./Machines/Easy/README.md) |
-| **Pending** | 🪟 | ![](https://img.shields.io/badge/-Medium-dbab09) | `Active Directory` `Kerberoasting` | [Read ➜](./Machines/Medium/README.md) |
-| **Pending** | 🐧 | ![](https://img.shields.io/badge/-Hard-bd2c00) | `Buffer Overflow` `Custom Exploit` | [Read ➜](./Machines/Hard/README.md) |
+| **Pterodactyl** | 🪟 | ![](https://img.shields.io/badge/-Medium-dbab09) | `Race Conditions` `Motherland` `LFI to RCE` | [Read ➜](./Machines/Medium/README.md) |
+| **WingData** | 🐧 | ![](https://img.shields.io/badge/-Hard-bd2c00) | `RCE` `Tarfile Path Traversal` | [Read ➜](./Machines/Hard/README.md) |
 
 <br>
 
