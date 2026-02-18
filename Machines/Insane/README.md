@@ -18,7 +18,7 @@
 
 | Machine Name | OS | Key Techniques | Link |
 | :--- | :---: | :--- | :---: |
-| **[Machine 1]** | 🐧/🪟 | `Technique 1` `Technique 2` | [📄 View PDF](./Machine1-HTB.pdf) |
+| **Eloquia** | 🪟 | `SQLite RCE` `Failure2Ban` `DPAPI Decrypt` | [📄 View PDF](./Machine1-HTB.pdf) |
 | **[Machine 2]** | 🐧/🪟 | `Technique 1` `Technique 2` | [📄 View PDF](./Machine2-HTB.pdf) |
 
 
