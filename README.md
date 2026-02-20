@@ -32,9 +32,9 @@ A log of the machines I have recently compromised.
 
 | Machine | OS | Difficulty | Tags | Write-up |
 | :--- | :---: | :---: | :---: | :---: |
-| **Armageddon** | 🐧 | ![](https://img.shields.io/badge/-Easy-2ea44f) | `Drupalgeddon2` `Snapd` `Dirty Sock` | [Read ➜](./Machines/Easy/README.md) |
+| **Giveback** | 🐧 | ![](https://img.shields.io/badge/-Medium-dbab09) | `GiveWP` `Mariadb` `Kubernetes` | [Read ➜](./Machines/Easy/README.md) |
 | **Pterodactyl** | 🪟 | ![](https://img.shields.io/badge/-Medium-dbab09) | `Race Conditions` `Motherland` `LFI to RCE` | [Read ➜](./Machines/Medium/README.md) |
-| **WingData** | 🐧 | ![](https://img.shields.io/badge/-Easy-bd2c00) | `RCE` `Tarfile Path Traversal` | [Read ➜](./Machines/Hard/README.md) |
+| **WingData** | 🐧 | ![](https://img.shields.io/badge/-Easy-2ea44f) | `RCE` `Tarfile Path Traversal` | [Read ➜](./Machines/Hard/README.md) |
 
 <br>
 
