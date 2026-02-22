@@ -35,7 +35,7 @@ A log of the machines I have recently compromised.
 | **Giveback** | 🐧 | ![](https://img.shields.io/badge/-Medium-dbab09) | `GiveWP` `Mariadb` `Kubernetes` | [Read ➜](./Machines/Easy/README.md) |
 | **Pterodactyl** | 🪟 | ![](https://img.shields.io/badge/-Medium-dbab09) | `Race Conditions` `Motherland` `LFI to RCE` | [Read ➜](./Machines/Medium/README.md) |
 | **WingData** | 🐧 | ![](https://img.shields.io/badge/-Easy-2ea44f) | `RCE` `Tarfile Path Traversal` | [Read ➜](./Machines/Easy/README.md) |
-| **Interpreter** | 🪟 | ![](https://img.shields.io/badge/-Medium-dbab09) | `Mirth` `SSTI`  | [Read ➜](./Machines/Medium/README.md) |
+| **Interpreter** | 🐧 | ![](https://img.shields.io/badge/-Medium-dbab09) | `Mirth` `SSTI`  | [Read ➜](./Machines/Medium/README.md) |
 
 <br>
 
