@@ -15,8 +15,8 @@
 
 | Machine Name | OS | Key Techniques | Link |
 | :--- | :---: | :--- | :---: |
-| **MachineTemplate** | 🐧 | `Tech1` `Tech2` `Tech3` | [📄 View PDF](./MachineTemplate-HTB.pdf) |
-| **MachineTemplate** | 🪟 | `Tech1` `Tech2` `Tech3` | [📄 View PDF](./MachineTemplate-HTB.pdf) |
+| **Pirate** | 🪟 | `RBCD` `LDAP` `gMSA` | [📄 View PDF](./Pirate-HTB.pdf) |
+
 
 ## 💡 General Tips for Hard Boxes
 
