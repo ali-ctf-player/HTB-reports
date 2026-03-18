@@ -1,7 +1,7 @@
 # 🔴 Hard Machines
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-e03c31?style=for-the-badge&logo=hack-the-box&logoColor=white)
-![Count](https://img.shields.io/badge/Total%20Pwned-1-red?style=for-the-badge)
+![Count](https://img.shields.io/badge/Total%20Pwned-2-red?style=for-the-badge)
 
 ## ℹ️ Overview
 
@@ -16,6 +16,8 @@
 | Machine Name | OS | Key Techniques | Link |
 | :--- | :---: | :--- | :---: |
 | **Pirate** | 🪟 | `RBCD` `LDAP` `gMSA` | [📄 View PDF](./Pirate-HTB.pdf) |
+| **DarkZero** | 🪟 | `xp_cmdshell` `AD CS` `DCSync` | [📄 View PDF](./DarkZero-HTB.pdf) |
+
 
 
 ## 💡 General Tips for Hard Boxes
