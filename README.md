@@ -19,11 +19,16 @@ I created this repository to document my learning journey, refine my methodology
 The repository is organized by category and difficulty:
 
 ```text
-├── Machines
+├── AI-Assisted
 │   ├── Easy
 │   ├── Medium
 │   ├── Hard
 │   └── Insane
+├── Manual-WriteUps
+│   ├── Machine1
+│   ├── Machine2
+│   ├── Machine3
+│
 ```
 
 ## 🏆 Recent Pwns
