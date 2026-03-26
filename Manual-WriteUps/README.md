@@ -7,8 +7,6 @@
 ## 🖥️ BOX INDEX
 
 | TARGET | OS | DIFFICULTY | USER | ROOT | WRITE-UP |
-| :--- | :--- | :--- | :---: | :---: | :--- |
-| `[Box Name]` | `Windows` | `Easy` | 🚩 | 🚩 | [Link](./BoxName/README.md) |
-| `[Box Name]` | `Linux`   | `Medium` | 🚩 | ⏳ | [Link](./BoxName/README.md) |
-
-*(Legend: 🚩 = Pwned | ⏳ = In Progress)*
+| :--- | :--- | :--- | :--- |
+| `Baby` | `Windows` | `Easy` | [Link](./Baby/README.md) |
+| `MonitorsTwo` | `Linux`   | `Easy` | [Link](./MonitorsTwo/README.md) |
