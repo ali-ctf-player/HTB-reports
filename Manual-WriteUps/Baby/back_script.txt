@@ -1,0 +1,6 @@
+set verbose on
+set metadata C:\Windows\Temp\test.cab
+set context persistent
+add volume C: alias cdrive
+create
+expose %cdrive% E:

@@ -1,0 +1,58 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-03-26 14:57 +0400
+Nmap scan report for baby.vl (10.129.234.71)
+Host is up (0.27s latency).
+Not shown: 987 filtered tcp ports (no-response)
+PORT     STATE SERVICE       VERSION
+53/tcp   open  domain        Simple DNS Plus
+88/tcp   open  kerberos-sec  Microsoft Windows Kerberos (server time: 2026-03-26 10:56:45Z)
+135/tcp  open  msrpc         Microsoft Windows RPC
+139/tcp  open  netbios-ssn   Microsoft Windows netbios-ssn
+389/tcp  open  ldap          Microsoft Windows Active Directory LDAP (Domain: baby.vl, Site: Default-First-Site-Name)
+445/tcp  open  microsoft-ds?
+464/tcp  open  kpasswd5?
+593/tcp  open  ncacn_http    Microsoft Windows RPC over HTTP 1.0
+636/tcp  open  tcpwrapped
+3268/tcp open  ldap          Microsoft Windows Active Directory LDAP (Domain: baby.vl, Site: Default-First-Site-Name)
+3269/tcp open  tcpwrapped
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+| ssl-cert: Subject: commonName=BabyDC.baby.vl
+| Not valid before: 2026-03-25T10:42:23
+|_Not valid after:  2026-09-24T10:42:23
+|_ssl-date: 2026-03-26T10:57:45+00:00; -52s from scanner time.
+| rdp-ntlm-info: 
+|   Target_Name: BABY
+|   NetBIOS_Domain_Name: BABY
+|   NetBIOS_Computer_Name: BABYDC
+|   DNS_Domain_Name: baby.vl
+|   DNS_Computer_Name: BabyDC.baby.vl
+|   DNS_Tree_Name: baby.vl
+|   Product_Version: 10.0.20348
+|_  System_Time: 2026-03-26T10:57:05+00:00
+5985/tcp open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-title: Not Found
+|_http-server-header: Microsoft-HTTPAPI/2.0
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 2022|2012|2016 (89%)
+OS CPE: cpe:/o:microsoft:windows_server_2022 cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2016
+Aggressive OS guesses: Microsoft Windows Server 2022 (89%), Microsoft Windows Server 2012 R2 (85%), Microsoft Windows Server 2016 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+Service Info: Host: BABYDC; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-security-mode: 
+|   3.1.1: 
+|_    Message signing enabled and required
+|_clock-skew: mean: -52s, deviation: 0s, median: -52s
+| smb2-time: 
+|   date: 2026-03-26T10:57:05
+|_  start_date: N/A
+
+TRACEROUTE (using port 53/tcp)
+HOP RTT       ADDRESS
+1   388.03 ms 10.10.14.1
+2   388.35 ms baby.vl (10.129.234.71)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 95.10 seconds
