@@ -1,37 +1,75 @@
-# 📂 HTB_CENTRAL_REPOSITORY :: OFFENSIVE_OPERATIONS
+# 🎯 HackTheBox Write-ups
 
-> **SECURITY_CLEARANCE:** RED_TEAM | **LOCATION:** /Manual Write Ups/ | **STATUS:** ACTIVE_DEVELOPMENT
+[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/htb-writeups)](https://github.com/yourusername/htb-writeups/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/htb-writeups)](https://github.com/yourusername/htb-writeups/stargazers)
+[![GitHub license](https://img.shields.io/github/license/yourusername/htb-writeups)](https://github.com/yourusername/htb-writeups/blob/main/LICENSE)
 
----
+A comprehensive collection of my **HackTheBox** machine write-ups, documenting my journey through various machines with detailed explanations, methodologies, and lessons learned.
 
-## 🛰️ TARGET_ENGAGEMENT_HISTORY
+## 📋 Table of Contents
+- [About](#about)
+- [Repository Structure](#repository-structure)
+- [Machine Categories](#machine-categories)
+- [Write-up Format](#write-up-format)
+- [Completed Machines](#completed-machines)
+- [Tools Used](#tools-used)
+- [Disclaimer](#disclaimer)
+- [Connect With Me](#connect-with-me)
 
-| ID_SERIAL | TARGET_MACHINE_NAME | OPERATING_SYSTEM | THREAT_LEVEL | PRIMARY_ATTACK_VECTOR | DEPLOYED_EXPLOITS | DOCUMENTATION_LINK |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `0x01` | `[MACHINE_NAME]` | `[WINDOWS]` | `[EASY]` | `[e.g., KERBEROAST]` | `[GetNPUsers.py]` | [ACCESS_LOGS](./Path) |
-| `0x02` | `[MACHINE_NAME]` | `[LINUX]` | `[MEDIUM]` | `[e.g., WEB_RCE]` | `[CVE-2023-XXXX]` | [ACCESS_LOGS](./Path) |
-| `0x03` | `[MACHINE_NAME]` | `[WINDOWS]` | `[HARD]` | `[e.g., AD_EXPLOIT]` | `[SecretsDump.py]` | [ACCESS_LOGS](./Path) |
-| `0x04` | `[MACHINE_NAME]` | `[LINUX]` | `[INSANE]` | `[e.g., LFI_TO_RCE]` | `[PHP_WRAPPER]` | [ACCESS_LOGS](./Path) |
-| `0x05` | `[MACHINE_NAME]` | `[WINDOWS]` | `[EASY]` | `[e.g., SMB_RELAY]` | `[Impacket-Tools]` | [ACCESS_LOGS](./Path) |
-| `0x06` | `[MACHINE_NAME]` | `[LINUX]` | `[MEDIUM]` | `[e.g., SUID_MISCONF]` | `[GTFOBins]` | [ACCESS_LOGS](./Path) |
+## 📖 About
 
----
+This repository contains detailed walkthroughs for HackTheBox machines I've completed. Each write-up includes:
+- **Enumeration** steps with reasoning
+- **Exploitation** techniques and vulnerability analysis
+- **Privilege Escalation** paths
+- **Flags** and key takeaways
+- **Mitigation** strategies
 
-## 🛠️ CORE_METHODOLOGY_FRAMEWORK
+These write-ups are created for educational purposes to help others learn penetration testing methodologies.
 
-> [!IMPORTANT]
-> All write-ups within this directory follow a standardized offensive lifecycle:
-> 1. **RECON:** Service discovery and port mapping.
-> 2. **FOOTHOLD:** Initial system access and user-level execution.
-> 3. **PRIV_ESC:** Vertical movement to Administrative/Root privileges.
-> 4. **POST_MORTEM:** Technical summary and remediation steps.
+## 🏷️ Machine Categories
 
----
+| Difficulty | Count | Description |
+|------------|-------|-------------|
+| 🟢 **Easy** | 2 | Beginner-friendly machines with straightforward paths |
+| 🟡 **Medium** | 0 | Moderate complexity, requiring intermediate skills |
+| 🔴 **Hard** | 0 | Complex machines requiring advanced techniques |
+| ⚫ **Insane** | 0 | Expert-level challenges with multiple layers |
 
-## 📊 REPOSITORY_STATISTICS
+## 📝 Write-up Format
 
-* **TOTAL_TARGETS_PWNED:** `[00]`
-* **OS_DISTRIBUTION:** `[Win: 0 / Nix: 0]`
-* **LAST_UPDATED:** `2026-03-26`
+Each write-up follows a consistent structure:
 
----
+```markdown
+# Machine Name
+
+## 📊 Machine Info
+- **IP:** x.x.x.x
+- **Difficulty:** [Easy/Medium/Hard/Insane]
+- **OS:** [Linux/Windows]
+- **Skills:** [List of skills used]
+
+## 🔍 Reconnaissance
+- Nmap scan results
+- Service enumeration
+- Directory fuzzing
+
+## 🚀 Exploitation
+- Vulnerability identification
+- Exploit development/modification
+- Initial access
+
+## 🔑 Privilege Escalation
+- Enumeration steps
+- Vulnerability chaining
+- Root/Administrator access
+
+## 🏆 Flags
+- **User:** [flag]
+- **Root:** [flag]
+
+## 📚 Lessons Learned
+- Key takeaways
+- New techniques discovered
+- Common pitfalls
+```
