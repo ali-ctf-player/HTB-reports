@@ -6,16 +6,6 @@
 
 A comprehensive collection of my **HackTheBox** machine write-ups, documenting my journey through various machines with detailed explanations, methodologies, and lessons learned.
 
-## 📋 Table of Contents
-- [About](#about)
-- [Repository Structure](#repository-structure)
-- [Machine Categories](#machine-categories)
-- [Write-up Format](#write-up-format)
-- [Completed Machines](#completed-machines)
-- [Tools Used](#tools-used)
-- [Disclaimer](#disclaimer)
-- [Connect With Me](#connect-with-me)
-
 ## 📖 About
 
 This repository contains detailed walkthroughs for HackTheBox machines I've completed. Each write-up includes:
@@ -47,7 +37,6 @@ Each write-up follows a consistent structure:
 - **IP:** x.x.x.x
 - **Difficulty:** [Easy/Medium/Hard/Insane]
 - **OS:** [Linux/Windows]
-- **Skills:** [List of skills used]
 
 ## 🔍 Reconnaissance
 - Nmap scan results
