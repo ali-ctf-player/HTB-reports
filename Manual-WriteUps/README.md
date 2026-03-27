@@ -1,8 +1,5 @@
 # 🎯 HackTheBox Write-ups
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ali-ctf-player/htb-writeups)](https://github.com/ali-ctf-player/HTB-Reports)
-[![GitHub stars](https://img.shields.io/github/stars/ali-ctf-player/htb-writeups)](https://github.com/ali-ctf-player/htb-writeups/stargazers)
-[![GitHub license](https://img.shields.io/github/license/ali-ctf-player/htb-writeups)](https://github.com/ali-ctf-player/htb-writeups/blob/main/LICENSE)
 
 A comprehensive collection of my **HackTheBox** machine write-ups, documenting my journey through various machines with detailed explanations, methodologies, and lessons learned.
 
