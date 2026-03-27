@@ -1,6 +1,6 @@
 # 🎯 HackTheBox Write-ups
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ali-ctf-player/htb-writeups)](https://github.com/ali-ctf-player/htb-writeups/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ali-ctf-player/htb-writeups)](https://github.com/ali-ctf-player/HTB-Reports)
 [![GitHub stars](https://img.shields.io/github/stars/ali-ctf-player/htb-writeups)](https://github.com/ali-ctf-player/htb-writeups/stargazers)
 [![GitHub license](https://img.shields.io/github/license/ali-ctf-player/htb-writeups)](https://github.com/ali-ctf-player/htb-writeups/blob/main/LICENSE)
 
