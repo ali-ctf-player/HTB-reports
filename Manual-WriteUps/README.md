@@ -1,8 +1,8 @@
 # 🎯 HackTheBox Write-ups
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/htb-writeups)](https://github.com/yourusername/htb-writeups/commits/main)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/htb-writeups)](https://github.com/yourusername/htb-writeups/stargazers)
-[![GitHub license](https://img.shields.io/github/license/yourusername/htb-writeups)](https://github.com/yourusername/htb-writeups/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ali-ctf-player/htb-writeups)](https://github.com/ali-ctf-player/htb-writeups/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/ali-ctf-player/htb-writeups)](https://github.com/ali-ctf-player/htb-writeups/stargazers)
+[![GitHub license](https://img.shields.io/github/license/ali-ctf-player/htb-writeups)](https://github.com/ali-ctf-player/htb-writeups/blob/main/LICENSE)
 
 A comprehensive collection of my **HackTheBox** machine write-ups, documenting my journey through various machines with detailed explanations, methodologies, and lessons learned.
 
@@ -22,7 +22,7 @@ These write-ups are created for educational purposes to help others learn penetr
 | Difficulty | Count | Description |
 |------------|-------|-------------|
 | 🟢 **Easy** | 2 | Beginner-friendly machines with straightforward paths |
-| 🟡 **Medium** | 0 | Moderate complexity, requiring intermediate skills |
+| 🟡 **Medium** | 1 | Moderate complexity, requiring intermediate skills |
 | 🔴 **Hard** | 0 | Complex machines requiring advanced techniques |
 | ⚫ **Insane** | 0 | Expert-level challenges with multiple layers |
 
