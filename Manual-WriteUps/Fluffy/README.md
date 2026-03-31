@@ -4,7 +4,6 @@
 **Difficulty:** `Easy`  
 **OS:** `Windows`  
 **Description:** `As is common in real life Windows pentests, you will start the Fluffy box with credentials for the following account: j.fleischman / J0elTHEM4n1990!`
-`
 ---
 
 
