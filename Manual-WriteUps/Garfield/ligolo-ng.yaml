@@ -1,0 +1,29 @@
+agent:
+    deadbeefcafe:
+        autobind: false
+        interface: ligolo
+interface:
+    ligolosample:
+        routes:
+            - 10.254.0.0/24
+            - 10.255.0.0/24
+web:
+    behindreverseproxy: false
+    debug: false
+    enabled: false
+    enableui: false
+    listen: 127.0.0.1:8080
+    logfile: ui.log
+    secret: 47838c730c3b23aedfbbdc492b7158b259fa533c47d30ddd86dbbc71f72fc6d9
+    tls:
+        alloweddomains: []
+        autocert: false
+        certfile: ""
+        enabled: false
+        keyfile: ""
+        selfcert: false
+        selfcertdomain: ligolo
+    trustedproxies:
+        - 127.0.0.1
+    users:
+        ligolo: $argon2id$v=19$m=32768,t=3,p=4$VwDQD6CflkjjIahDJpSQXw$L95A5xFZcDbPwEZQ5vSKQ5kx41flZHcAILQPJ4kvWWQ

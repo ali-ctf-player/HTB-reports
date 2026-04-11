@@ -1,0 +1,59 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-04-11 15:51 +0400
+Nmap scan report for garfield.htb (10.129.33.43)
+Host is up (0.20s latency).
+Not shown: 986 filtered tcp ports (no-response)
+PORT     STATE SERVICE       VERSION
+53/tcp   open  domain        Simple DNS Plus
+88/tcp   open  kerberos-sec  Microsoft Windows Kerberos (server time: 2026-04-11 19:50:43Z)
+135/tcp  open  msrpc         Microsoft Windows RPC
+139/tcp  open  netbios-ssn   Microsoft Windows netbios-ssn
+389/tcp  open  ldap          Microsoft Windows Active Directory LDAP (Domain: garfield.htb, Site: Default-First-Site-Name)
+445/tcp  open  microsoft-ds?
+464/tcp  open  kpasswd5?
+593/tcp  open  ncacn_http    Microsoft Windows RPC over HTTP 1.0
+636/tcp  open  tcpwrapped
+2179/tcp open  vmrdp?
+3268/tcp open  ldap          Microsoft Windows Active Directory LDAP (Domain: garfield.htb, Site: Default-First-Site-Name)
+3269/tcp open  tcpwrapped
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+|_ssl-date: 2026-04-11T19:51:57+00:00; +7h59m00s from scanner time.
+| rdp-ntlm-info: 
+|   Target_Name: GARFIELD
+|   NetBIOS_Domain_Name: GARFIELD
+|   NetBIOS_Computer_Name: DC01
+|   DNS_Domain_Name: garfield.htb
+|   DNS_Computer_Name: DC01.garfield.htb
+|   DNS_Tree_Name: garfield.htb
+|   Product_Version: 10.0.17763
+|_  System_Time: 2026-04-11T19:51:17+00:00
+| ssl-cert: Subject: commonName=DC01.garfield.htb
+| Not valid before: 2026-02-13T01:10:36
+|_Not valid after:  2026-08-15T01:10:36
+5985/tcp open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-title: Not Found
+|_http-server-header: Microsoft-HTTPAPI/2.0
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 2019|10 (97%)
+OS CPE: cpe:/o:microsoft:windows_server_2019 cpe:/o:microsoft:windows_10
+Aggressive OS guesses: Windows Server 2019 (97%), Microsoft Windows 10 1903 - 21H1 (91%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+Service Info: Host: DC01; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-security-mode: 
+|   3.1.1: 
+|_    Message signing enabled and required
+|_clock-skew: mean: 7h58m59s, deviation: 0s, median: 7h58m59s
+| smb2-time: 
+|   date: 2026-04-11T19:51:20
+|_  start_date: N/A
+
+TRACEROUTE (using port 3389/tcp)
+HOP RTT       ADDRESS
+1   238.63 ms 10.10.14.1
+2   238.70 ms garfield.htb (10.129.33.43)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 97.71 seconds
