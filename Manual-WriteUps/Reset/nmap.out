@@ -1,0 +1,33 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-04-14 20:31 +0400
+Nmap scan report for reset.htb (10.129.234.130)
+Host is up (0.093s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT    STATE SERVICE VERSION
+22/tcp  open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 6a:16:1f:c8:fe:fd:e3:98:a6:85:cf:fe:7b:0e:60:aa (ECDSA)
+|_  256 e4:08:cc:5f:8e:56:25:8f:38:c3:ec:df:b8:86:0c:69 (ED25519)
+80/tcp  open  http    Apache httpd 2.4.52 ((Ubuntu))
+|_http-title: Admin Login
+|_http-server-header: Apache/2.4.52 (Ubuntu)
+| http-cookie-flags: 
+|   /: 
+|     PHPSESSID: 
+|_      httponly flag not set
+512/tcp open  exec    netkit-rsh rexecd
+513/tcp open  login?
+514/tcp open  shell   Netkit rshd
+Device type: general purpose|router
+Running: Linux 5.X, MikroTik RouterOS 7.X
+OS CPE: cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+OS details: Linux 5.0 - 5.14, MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT      ADDRESS
+1   74.93 ms 10.10.14.1
+2   78.24 ms reset.htb (10.129.234.130)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 407.04 seconds
