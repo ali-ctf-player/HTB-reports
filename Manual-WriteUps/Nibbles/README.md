@@ -1,9 +1,5 @@
 # HTB Write-Up: Nibbles
 
-<p align="center">
-  <img src="https://www.hackthebox.com/images/logo-600.png" width="200"/>
-</p>
-
 ---
 
 | Field      | Details                                                      |
