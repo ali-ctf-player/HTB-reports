@@ -5,7 +5,7 @@
 | Platform   | [Hack The Box](https://app.hackthebox.com/machines/Bounty)     |
 | Difficulty | Easy                                                           |
 | OS         | Windows                                                        |
-| Author     | Landau                                                        |
+| Author     | Landau                                                         |
 | Date       | April 17, 2026                                                 |
 
 ---

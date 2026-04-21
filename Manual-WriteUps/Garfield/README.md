@@ -388,3 +388,4 @@ Provided credentials: j.arbuckle / Th1sD4mnC4t!@1978
 - RODC environments introduce unique attack surfaces — the RODC's local Administrator account often holds elevated AD group memberships (Domain Admins, Enterprise Admins) that can be abused once the machine is compromised.
 - BloodHound / BloodyAD are essential for mapping ACE chains that would otherwise be invisible through standard enumeration.
 - RBCD attacks do not require Domain Admin privileges to configure — only write access to the target computer object's `msDS-AllowedToActOnBehalfOfOtherIdentity` attribute.
+

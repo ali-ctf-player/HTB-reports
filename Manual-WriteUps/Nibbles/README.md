@@ -1,5 +1,9 @@
 # HTB Write-Up: Nibbles
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 ---
 
 | Field      | Details                                                      |

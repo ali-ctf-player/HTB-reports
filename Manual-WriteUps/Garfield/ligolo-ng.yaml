@@ -9,6 +9,8 @@ interface:
             - 10.255.0.0/24
 web:
     behindreverseproxy: false
+    corsallowedorigin:
+        - http://127.0.0.1:8080
     debug: false
     enabled: false
     enableui: false
