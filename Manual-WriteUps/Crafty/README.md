@@ -5,7 +5,7 @@
 | Platform   | [Hack The Box](https://app.hackthebox.com/machines/Crafty)     |
 | Difficulty | Easy                                                           |
 | OS         | Windows                                                        |
-| Author     | Landau                                                         |
+| Author     | Samurai                                                         |
 | Date       | April 21, 2026                                                 |
 
 ---
