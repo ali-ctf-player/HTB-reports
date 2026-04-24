@@ -1,0 +1,114 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-04-24 19:01 +0400
+Nmap scan report for 10.129.234.64
+Host is up (0.13s latency).
+
+PORT     STATE SERVICE       VERSION
+80/tcp   open  http          Microsoft IIS httpd 10.0
+|_http-server-header: Microsoft-IIS/10.0
+|_http-title: Lock - Index
+| http-methods: 
+|_  Potentially risky methods: TRACE
+445/tcp  open  microsoft-ds?
+3000/tcp open  http          Golang net/http server
+|_http-title: Gitea: Git with a cup of tea
+| fingerprint-strings: 
+|   GenericLines, Help, RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Content-Type: text/plain; charset=utf-8
+|     Connection: close
+|     Request
+|   GetRequest: 
+|     HTTP/1.0 200 OK
+|     Cache-Control: max-age=0, private, must-revalidate, no-transform
+|     Content-Type: text/html; charset=utf-8
+|     Set-Cookie: i_like_gitea=8d9b24ab7043bd48; Path=/; HttpOnly; SameSite=Lax
+|     Set-Cookie: _csrf=MYTbmP42yD339q51OD6c-DBksFw6MTc3NzA0Mjg4MDA0NTkzMzMwMA; Path=/; Max-Age=86400; HttpOnly; SameSite=Lax
+|     X-Frame-Options: SAMEORIGIN
+|     Date: Fri, 24 Apr 2026 15:01:20 GMT
+|     <!DOCTYPE html>
+|     <html lang="en-US" class="theme-auto">
+|     <head>
+|     <meta name="viewport" content="width=device-width, initial-scale=1">
+|     <title>Gitea: Git with a cup of tea</title>
+|     <link rel="manifest" href="data:application/json;base64,eyJuYW1lIjoiR2l0ZWE6IEdpdCB3aXRoIGEgY3VwIG9mIHRlYSIsInNob3J0X25hbWUiOiJHaXRlYTogR2l0IHdpdGggYSBjdXAgb2YgdGVhIiwic3RhcnRfdXJsIjoiaHR0cDovL2xvY2FsaG9zdDozMDAwLyIsImljb25zIjpbeyJzcmMiOiJodHRwOi8vbG9jYWxob3N0OjMwMDAvYXNzZXRzL2ltZy9sb2dvLnBuZyIsInR5cGUiOiJpbWFnZS9wbmciLCJzaXplcyI6IjU
+|   HTTPOptions: 
+|     HTTP/1.0 405 Method Not Allowed
+|     Allow: HEAD
+|     Allow: GET
+|     Cache-Control: max-age=0, private, must-revalidate, no-transform
+|     Set-Cookie: i_like_gitea=30985c4b24f2ed54; Path=/; HttpOnly; SameSite=Lax
+|     Set-Cookie: _csrf=KTQbxAS1zCE5230TaHIzkvv4Xf06MTc3NzA0Mjg4MTE1NDk0MzAwMA; Path=/; Max-Age=86400; HttpOnly; SameSite=Lax
+|     X-Frame-Options: SAMEORIGIN
+|     Date: Fri, 24 Apr 2026 15:01:21 GMT
+|_    Content-Length: 0
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+| rdp-ntlm-info: 
+|   Target_Name: LOCK
+|   NetBIOS_Domain_Name: LOCK
+|   NetBIOS_Computer_Name: LOCK
+|   DNS_Domain_Name: Lock
+|   DNS_Computer_Name: Lock
+|   Product_Version: 10.0.20348
+|_  System_Time: 2026-04-24T15:01:53+00:00
+| ssl-cert: Subject: commonName=Lock
+| Not valid before: 2026-04-23T14:51:44
+|_Not valid after:  2026-10-23T14:51:44
+|_ssl-date: 2026-04-24T15:02:34+00:00; +3s from scanner time.
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port3000-TCP:V=7.98%I=7%D=4/24%Time=69EB85BB%P=x86_64-pc-linux-gnu%r(Ge
+SF:nericLines,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Type:\x20t
+SF:ext/plain;\x20charset=utf-8\r\nConnection:\x20close\r\n\r\n400\x20Bad\x
+SF:20Request")%r(GetRequest,3000,"HTTP/1\.0\x20200\x20OK\r\nCache-Control:
+SF:\x20max-age=0,\x20private,\x20must-revalidate,\x20no-transform\r\nConte
+SF:nt-Type:\x20text/html;\x20charset=utf-8\r\nSet-Cookie:\x20i_like_gitea=
+SF:8d9b24ab7043bd48;\x20Path=/;\x20HttpOnly;\x20SameSite=Lax\r\nSet-Cookie
+SF::\x20_csrf=MYTbmP42yD339q51OD6c-DBksFw6MTc3NzA0Mjg4MDA0NTkzMzMwMA;\x20P
+SF:ath=/;\x20Max-Age=86400;\x20HttpOnly;\x20SameSite=Lax\r\nX-Frame-Option
+SF:s:\x20SAMEORIGIN\r\nDate:\x20Fri,\x2024\x20Apr\x202026\x2015:01:20\x20G
+SF:MT\r\n\r\n<!DOCTYPE\x20html>\n<html\x20lang=\"en-US\"\x20class=\"theme-
+SF:auto\">\n<head>\n\t<meta\x20name=\"viewport\"\x20content=\"width=device
+SF:-width,\x20initial-scale=1\">\n\t<title>Gitea:\x20Git\x20with\x20a\x20c
+SF:up\x20of\x20tea</title>\n\t<link\x20rel=\"manifest\"\x20href=\"data:app
+SF:lication/json;base64,eyJuYW1lIjoiR2l0ZWE6IEdpdCB3aXRoIGEgY3VwIG9mIHRlYS
+SF:IsInNob3J0X25hbWUiOiJHaXRlYTogR2l0IHdpdGggYSBjdXAgb2YgdGVhIiwic3RhcnRfd
+SF:XJsIjoiaHR0cDovL2xvY2FsaG9zdDozMDAwLyIsImljb25zIjpbeyJzcmMiOiJodHRwOi8v
+SF:bG9jYWxob3N0OjMwMDAvYXNzZXRzL2ltZy9sb2dvLnBuZyIsInR5cGUiOiJpbWFnZS9wbmc
+SF:iLCJzaXplcyI6IjU")%r(Help,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nCon
+SF:tent-Type:\x20text/plain;\x20charset=utf-8\r\nConnection:\x20close\r\n\
+SF:r\n400\x20Bad\x20Request")%r(HTTPOptions,197,"HTTP/1\.0\x20405\x20Metho
+SF:d\x20Not\x20Allowed\r\nAllow:\x20HEAD\r\nAllow:\x20GET\r\nCache-Control
+SF::\x20max-age=0,\x20private,\x20must-revalidate,\x20no-transform\r\nSet-
+SF:Cookie:\x20i_like_gitea=30985c4b24f2ed54;\x20Path=/;\x20HttpOnly;\x20Sa
+SF:meSite=Lax\r\nSet-Cookie:\x20_csrf=KTQbxAS1zCE5230TaHIzkvv4Xf06MTc3NzA0
+SF:Mjg4MTE1NDk0MzAwMA;\x20Path=/;\x20Max-Age=86400;\x20HttpOnly;\x20SameSi
+SF:te=Lax\r\nX-Frame-Options:\x20SAMEORIGIN\r\nDate:\x20Fri,\x2024\x20Apr\
+SF:x202026\x2015:01:21\x20GMT\r\nContent-Length:\x200\r\n\r\n")%r(RTSPRequ
+SF:est,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Type:\x20text/pla
+SF:in;\x20charset=utf-8\r\nConnection:\x20close\r\n\r\n400\x20Bad\x20Reque
+SF:st");
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 2022|2012|2016 (89%)
+OS CPE: cpe:/o:microsoft:windows_server_2022 cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2016
+Aggressive OS guesses: Microsoft Windows Server 2022 (89%), Microsoft Windows Server 2012 R2 (85%), Microsoft Windows Server 2016 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: mean: 2s, deviation: 0s, median: 2s
+| smb2-time: 
+|   date: 2026-04-24T15:01:56
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3.1.1: 
+|_    Message signing enabled but not required
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   171.52 ms 10.10.14.1
+2   171.68 ms 10.129.234.64
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 83.93 seconds
+                        
