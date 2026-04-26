@@ -5,7 +5,7 @@
 | Platform   | [Hack The Box](https://app.hackthebox.com/machines/Dog)        |
 | Difficulty | Easy                                                           |
 | OS         | Linux                                                          |
-| Author     | Landau                                                         |
+| Author     | Samurai                                                         |
 | Date       | April 24, 2026                                                 |
 
 ---
