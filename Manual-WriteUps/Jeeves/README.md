@@ -5,7 +5,7 @@
 | Platform   | [Hack The Box](https://app.hackthebox.com/machines/Jeeves)     |
 | Difficulty | Medium                                                         |
 | OS         | Windows                                                        |
-| Author     | Landau                                                         |
+| Author     | Babayev                                                        |
 | Date       | May 22, 2026                                                   |
 
 ---
