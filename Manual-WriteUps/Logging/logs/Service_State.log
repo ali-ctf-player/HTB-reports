@@ -1,0 +1,6 @@
+[2026-02-18 06:00:00] [SYSTEM] Service 'IdentitySync' received START command.
+[2026-02-18 06:00:02] [SYSTEM] Service 'IdentitySync' entered RUNNING state.
+[2026-02-19 06:00:00] [SYSTEM] Service 'IdentitySync' received STOP command.
+[2026-02-19 06:00:05] [SYSTEM] Service 'IdentitySync' entered STOPPED state.
+[2026-02-19 06:01:00] [SYSTEM] Service 'IdentitySync' received START command.
+[2026-02-19 06:01:03] [SYSTEM] Service 'IdentitySync' entered RUNNING state.
