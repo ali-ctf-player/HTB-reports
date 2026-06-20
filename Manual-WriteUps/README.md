@@ -56,7 +56,7 @@ That `README.md` must start with a metadata table — this is what the generator
 | Platform   | [Hack The Box](https://app.hackthebox.com/machines/Name)  |
 | Difficulty | Easy / Medium / Hard / Insane                              |
 | OS         | Linux / Windows                                            |
-| Author     | Your Name                                                  |
+| Author     | Babayev                                                  |
 | Date       | Month DD, YYYY                                             |
 
 ---
@@ -85,14 +85,4 @@ That `README.md` must start with a metadata table — this is what the generator
 - Common pitfalls
 ```
 
-## ➕ Adding a New Write-up
 
-1. Create a new folder named after the machine, e.g. `Lame/`, with a `README.md` inside following the format above.
-2. Commit and push to `main`.
-3. GitHub Actions automatically re-runs the generator and commits the updated stats/table back to this top-level `README.md` — no manual edits needed.
-
-You can also run it locally any time:
-
-```bash
-python3 scripts/generate_readme.py
-```
