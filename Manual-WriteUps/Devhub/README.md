@@ -1,11 +1,13 @@
-# DevHub — HackTheBox Writeup
 
-**Platform:** [Hack The Box](https://app.hackthebox.com/machines/DevHub)
-**Difficulty:** `Medium`
-**OS:** `Linux`
-**Author:** samurai
+# HTB Write-Up: Devhub
 
----
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Devhub)        |
+| Difficulty | Medium                                                           |
+| OS         | Linux                                                          |
+| Author     | Samurai                                                         |
+| Date       | Mart 26, 2026                                                 |
 
 ## Overview
 

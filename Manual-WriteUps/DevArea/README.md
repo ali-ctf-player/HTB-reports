@@ -1,11 +1,13 @@
-# DevArea — HackTheBox Writeup
 
-**Platform:** [Hack The Box](https://app.hackthebox.com/machines/DevArea)  
-**Difficulty:** `Medium`  
-**OS:** `Linux`  
-**Author:** samurai
+# HTB Write-Up: DevArea
 
----
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/DevArea)        |
+| Difficulty | Medium                                                           |
+| OS         | Linux                                                          |
+| Author     | Samurai                                                         |
+| Date       | Mart 21, 2026                                                 |
 
 ## Overview
 

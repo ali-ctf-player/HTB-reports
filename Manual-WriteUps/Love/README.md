@@ -1,10 +1,14 @@
 
 
-# HTB: Love
-**Platform:** [Hack The Box](https://app.hackthebox.com/machines/Love)  
-**Difficulty:** `Easy`  
-**OS:** `Linux`  
----
+# HTB Write-Up: Love
+
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Love)        |
+| Difficulty | Easy                                                           |
+| OS         | Linux                                                          |
+| Author     | Samurai                                                         |
+| Date       | April 13, 2026                                                 |
 
 ## Reconnaissance
 

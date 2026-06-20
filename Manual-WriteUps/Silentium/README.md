@@ -1,9 +1,13 @@
-# Silentium — HackTheBox Writeup
 
-**Platform:** [Hack The Box](https://app.hackthebox.com/machines/Silentium)  
-**Difficulty:** `Easy`  
-**OS:** `Linux`  
-**Author:** samurai
+# HTB Write-Up: Silentium
+
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Silentium)        |
+| Difficulty | Easy                                                           |
+| OS         | Linux                                                          |
+| Author     | Samurai                                                         |
+| Date       | April 17, 2026                                                 |
 
 ---
 

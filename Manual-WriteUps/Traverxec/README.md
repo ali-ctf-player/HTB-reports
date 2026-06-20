@@ -1,9 +1,15 @@
 
+# HTB Write-Up: Traverxec
 
-# HTB: Traverxec
-**Platform:** [Hack The Box](https://app.hackthebox.com/machines/Traverxec)  
-**Difficulty:** `Easy`  
-**OS:** `Linux`  
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Traverxec)        |
+| Difficulty | Easy                                                           |
+| OS         | Linux                                                          |
+| Author     | Samurai                                                         |
+| Date       | Mart 24, 2026                                                 |
+
+
 ---
 
 

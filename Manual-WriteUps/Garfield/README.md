@@ -1,9 +1,13 @@
-# Garfield — HackTheBox Writeup
 
-**Platform:** [Hack The Box](https://app.hackthebox.com/machines/Garfield)  
-**Difficulty:** `Hard`  
-**OS:** `Windows`  
-**Author:** samurai
+# HTB Write-Up: Garfield
+
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Garfield)        |
+| Difficulty | Hard                                                           |
+| OS         | Windows                                                          |
+| Author     | Samurai                                                         |
+| Date       | April 20, 2026                                                 |
 
 > **Starting credentials provided:** `j.arbuckle` / `Th1sD4mnC4t!@1978`
 

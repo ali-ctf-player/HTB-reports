@@ -1,10 +1,13 @@
 
-# HTB: Cronos
-**Platform:** [Hack The Box](https://app.hackthebox.com/machines/Cronos)  
-**Difficulty:** `Medium`  
-**OS:** `Linux`  
----
+# HTB Write-Up: Cronos
 
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Cronos)        |
+| Difficulty | Medium                                                           |
+| OS         | Linux                                                          |
+| Author     | Samurai                                                         |
+| Date       | Mart 19, 2026                                                 |
 
 ## Reconnaissance
 

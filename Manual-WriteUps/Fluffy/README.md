@@ -1,11 +1,16 @@
-# Fluffy — HackTheBox Writeup
 
-**Platform:** [Hack The Box](https://app.hackthebox.com/machines/Fluffy)  
-**Difficulty:** `Easy`  
-**OS:** `Windows`  
-**Author:** samurai
+# HTB Write-Up: Fluffy
+
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Fluffy)        |
+| Difficulty | Easy                                                           |
+| OS         | Windows                                                          |
+| Author     | Samurai                                                         |
+| Date       | April 15, 2026                                                 |
 
 > **Starting credentials provided:** `j.fleischman` / `J0elTHEM4n1990!`
+
 
 ---
 

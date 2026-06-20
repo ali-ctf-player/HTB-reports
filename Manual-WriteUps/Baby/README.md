@@ -1,5 +1,13 @@
 
-# Baby (Easy,Windows)
+# HTB Write-Up: Baby
+
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Windows)        |
+| Difficulty | Easy                                                           |
+| OS         | Windows                                                          |
+| Author     | Samurai                                                         |
+| Date       | April 15, 2026                                                 |
 
 Today. We will hack a machine from hackthebox named Baby (Easy,Windows) machine. Let's start it without wasting time!
 

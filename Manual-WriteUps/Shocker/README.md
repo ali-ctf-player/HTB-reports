@@ -1,29 +1,14 @@
 <div align="center">
 
-# 🟥 Hack The Box — Shocker
+# HTB Write-Up: Shocker
 
-![HTB Badge](https://img.shields.io/badge/Platform-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00C853?style=for-the-badge)
-![OS](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Pwned%20%E2%98%A0-red?style=for-the-badge)
-
-**Author:** samurai &nbsp;|&nbsp; **Date:** April 18, 2026 &nbsp;|&nbsp; **CVE:** [CVE-2014-6271](https://nvd.nist.gov/vuln/detail/CVE-2014-6271) (Shellshock)
-
-</div>
-
----
-
-## 📋 Machine Info
-
-| Field        | Details                                              |
-|:-------------|:-----------------------------------------------------|
-| 🌐 Platform  | [Hack The Box](https://app.hackthebox.com/machines/Shocker) |
-| 💀 Difficulty | Easy                                                 |
-| 🐧 OS        | Linux                                                |
-| ✍️ Author    | samurai                                              |
-| 📅 Date      | April 18, 2026                                       |
-| 🔑 User Flag | ✅ Obtained                                          |
-| 👑 Root Flag | ✅ Obtained                                          |
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Shocker)        |
+| Difficulty | Easy                                                           |
+| OS         | Linux                                                          |
+| Author     | Samurai                                                         |
+| Date       | April 18, 2026                                                 |
 
 ---
 

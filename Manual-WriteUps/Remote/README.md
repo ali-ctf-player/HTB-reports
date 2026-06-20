@@ -1,9 +1,13 @@
-# REMOTE — HackTheBox Writeup
 
-**Platform:** [Hack The Box](https://app.hackthebox.com/machines/Remote)  
-**Difficulty:** `Easy`  
-**OS:** `Windows`  
-**Author:** samurai
+# HTB Write-Up: Remote
+
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Remote)        |
+| Difficulty | Easy                                                           |
+| OS         | Windows                                                          |
+| Author     | Samurai                                                         |
+| Date       | June 10, 2026                                                 |
 
 ---
 

@@ -1,18 +1,13 @@
+
 # HTB Write-Up: Nibbles
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
----
-
-| Field      | Details                                                      |
-|------------|--------------------------------------------------------------|
-| 🖥️ Platform | [Hack The Box](https://app.hackthebox.com/machines/Nibbles) |
-| ⚡ Difficulty | Easy                                                       |
-| 🐧 OS       | Linux                                                        |
-| ✍️ Author   | samurai                                                       |
-| 📅 Date     | April 20, 2026                                               |
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Nibbles)        |
+| Difficulty | Easy                                                           |
+| OS         | Linux                                                          |
+| Author     | Samurai                                                         |
+| Date       | April 20, 2026                                                 |
 
 ---
 

@@ -1,9 +1,13 @@
-# Sendai — HackTheBox Writeup
 
-**Platform:** [Hack The Box](https://app.hackthebox.com/machines/Sendai)
-**Difficulty:** `Medium`
-**OS:** `Windows`
-**Author:** samurai
+# HTB Write-Up: Sendai
+
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/Sendai)        |
+| Difficulty | Medium                                                           |
+| OS         | Windows                                                          |
+| Author     | Samurai                                                         |
+| Date       | June 11, 2026                                                 |
 
 ---
 

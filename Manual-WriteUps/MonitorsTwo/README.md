@@ -1,6 +1,16 @@
 
 
-# MonitorsTwo (Easy,Linux)
+# HTB Write-Up: MonitorsTwo
+
+| Field      | Details                                                        |
+|------------|----------------------------------------------------------------|
+| Platform   | [Hack The Box](https://app.hackthebox.com/machines/MonitorsTwo)        |
+| Difficulty | Easy                                                           |
+| OS         | Linux                                                          |
+| Author     | Samurai                                                         |
+| Date       | April 30, 2026                                                 |
+
+
 
 ## Reconnaissance (Rustscan,Nmap)
 
