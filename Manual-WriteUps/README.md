@@ -22,8 +22,8 @@ These write-ups are created for educational purposes to help others learn penetr
 | Difficulty | Count | Description |
 |------------|-------|-------------|
 | 🟢 **Easy** | 26 | Beginner-friendly machines with straightforward paths |
-| 🟡 **Medium** | 17 | Moderate complexity, requiring intermediate skills |
-| 🔴 **Hard** | 5 | Complex machines requiring advanced techniques |
+| 🟡 **Medium** | 16 | Moderate complexity, requiring intermediate skills |
+| 🔴 **Hard** | 6 | Complex machines requiring advanced techniques |
 | ⚫ **Insane** | 0 | Expert-level challenges with multiple layers |
 
 **Total machines documented: 48**
@@ -34,7 +34,7 @@ These write-ups are created for educational purposes to help others learn penetr
 <!-- MACHINES:START -->
 | Machine | Difficulty | OS | Date | Write-up |
 |---------|------------|----|------|----------|
-| [NanoCorp](NanoCorp/README.md) | 🟡 Medium | Windows | June 23, 2026 | [Read more](NanoCorp/README.md) |
+| [NanoCorp](NanoCorp/README.md) | 🔴 Hard | Windows | June 23, 2026 | [Read more](NanoCorp/README.md) |
 | [Orion](Orion/README.md) | 🟢 Easy | Linux | June 23, 2026 | [Read more](Orion/README.md) |
 | [Escape](Escape/README.md) | 🟡 Medium | Windows | June 18, 2026 | [Read more](Escape/README.md) |
 | [Blackfield](Blackfield/README.md) | 🔴 Hard | Windows | June 17, 2026 | [Read more](Blackfield/README.md) |

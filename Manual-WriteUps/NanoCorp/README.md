@@ -3,7 +3,7 @@
 | Field      | Details                                                                  |
 |------------|--------------------------------------------------------------------------|
 | Platform   | [Hack The Box](https://app.hackthebox.com/machines)                      |
-| Difficulty | Medium                                                                   |
+| Difficulty | Hard                                                                   |
 | OS         | Windows                                                                  |
 | Domain     | `nanocorp.htb`                                                           |
 | Author     | Babayev                                                                  |
