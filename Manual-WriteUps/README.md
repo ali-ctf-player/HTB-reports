@@ -21,12 +21,12 @@ These write-ups are created for educational purposes to help others learn penetr
 <!-- STATS:START -->
 | Difficulty | Count | Description |
 |------------|-------|-------------|
-| 🟢 **Easy** | 26 | Beginner-friendly machines with straightforward paths |
+| 🟢 **Easy** | 27 | Beginner-friendly machines with straightforward paths |
 | 🟡 **Medium** | 16 | Moderate complexity, requiring intermediate skills |
 | 🔴 **Hard** | 6 | Complex machines requiring advanced techniques |
 | ⚫ **Insane** | 0 | Expert-level challenges with multiple layers |
 
-**Total machines documented: 48**
+**Total machines documented: 49**
 <!-- STATS:END -->
 
 ## 🖥️ All Write-ups
@@ -34,6 +34,7 @@ These write-ups are created for educational purposes to help others learn penetr
 <!-- MACHINES:START -->
 | Machine | Difficulty | OS | Date | Write-up |
 |---------|------------|----|------|----------|
+| [Enigma](Enigma/README.md) | 🟢 Easy | Linux | June 29, 2026 | [Read more](Enigma/README.md) |
 | [NanoCorp](NanoCorp/README.md) | 🔴 Hard | Windows | June 23, 2026 | [Read more](NanoCorp/README.md) |
 | [Orion](Orion/README.md) | 🟢 Easy | Linux | June 23, 2026 | [Read more](Orion/README.md) |
 | [Escape](Escape/README.md) | 🟡 Medium | Windows | June 18, 2026 | [Read more](Escape/README.md) |
