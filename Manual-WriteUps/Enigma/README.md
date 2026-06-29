@@ -3,7 +3,7 @@
 | Field      | Details                                                                  |
 |------------|--------------------------------------------------------------------------|
 | Platform   | [Hack The Box](https://app.hackthebox.com/machines/Enigma)               |
-| Difficulty | Medium                                                                   |
+| Difficulty | Easy                                                                   |
 | OS         | Linux                                                                    |
 | Author     | Babayev                                                                   |
 | Date       | June 29, 2026                                                            |
